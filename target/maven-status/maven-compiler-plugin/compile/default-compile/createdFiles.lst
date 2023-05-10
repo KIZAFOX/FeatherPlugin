@@ -1,0 +1,6 @@
+fr\kizafox\featherplugin\FeatherPlugin.class
+fr\kizafox\featherplugin\database\DBHandler.class
+fr\kizafox\featherplugin\database\requests\DBRequests.class
+fr\kizafox\featherplugin\database\DBHandler$Builder.class
+fr\kizafox\featherplugin\database\Database.class
+fr\kizafox\featherplugin\database\hikari\HikariPool.class
