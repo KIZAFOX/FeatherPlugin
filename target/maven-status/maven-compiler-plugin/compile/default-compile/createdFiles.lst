@@ -1,9 +1,0 @@
-fr\kizafox\featherplugin\listeners\PlayerListeners.class
-fr\kizafox\featherplugin\FeatherPlugin.class
-fr\kizafox\featherplugin\database\requests\DBQuery.class
-fr\kizafox\featherplugin\database\DBHandler.class
-fr\kizafox\featherplugin\database\DBHandler$Builder.class
-fr\kizafox\featherplugin\database\Database.class
-fr\kizafox\featherplugin\database\hikari\HikariPool.class
-fr\kizafox\featherplugin\database\requests\user\User.class
-fr\kizafox\featherplugin\database\requests\user\UserAccount.class

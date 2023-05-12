@@ -1,7 +1,0 @@
-name: 'FeatherPlugin'
-version: '1.0-SNAPSHOT'
-main: 'fr.kizafox.featherplugin.FeatherPlugin'
-api-version: 1.19
-authors: [ KIZAFOX ]
-description: 'The best way to use HikariCP with Spigot!'
-website: 'https://twitter.com/KIZAFOX'
